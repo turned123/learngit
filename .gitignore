@@ -1,0 +1,3 @@
+#windows
+git log
+$ git reset --hard HEAD^
